@@ -14,7 +14,7 @@ public class King extends ChessPiece {
 	@Override
 	public String toString() {
 		return "k";
-	}
+	} 
 
 	private boolean canMove(Position position) {
 		ChessPiece p = (ChessPiece) getBoard().piece(position);
