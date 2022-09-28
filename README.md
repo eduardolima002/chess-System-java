@@ -14,7 +14,7 @@
 
 ## Como Usar:
 
-### 1 - Compile em um terminal colorido o que eu usei foi o terminal do git.
+### 1 - Compile em um terminal colorido, o que eu usei foi o terminal do git.
 
 ## Autor
 
