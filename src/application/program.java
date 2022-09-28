@@ -12,6 +12,7 @@ import chess.ChessPosition;
 
 public class program {
 	public static void main(String[] args) {
+		
 		ChessMatch chessMatch = new ChessMatch();
 		Scanner s = new Scanner(System.in);
 		List<ChessPiece>captured = new ArrayList<>();
